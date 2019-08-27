@@ -44,7 +44,7 @@
 
 
 ***
-** FR
+**FR
 ***
 
 1) Faire un `npm install` dans le dossier racine du projet
